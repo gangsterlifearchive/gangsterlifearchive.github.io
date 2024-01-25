@@ -5,3 +5,9 @@ gl (gangster life)
 e (episode)
 [episode number]
 p/e (prologue/epologue)
+
+examples:
+
+gle3e - gangster life remake episode 3 EPILOGUE
+cgl1  - gangster life (original) episode 1
+gle2  - gangster life remake episode 2
